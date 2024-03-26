@@ -1,0 +1,23 @@
+sort1 uses:
+Bubble sort
+
+How do you know?:
+Bubble sort has a time complexity O(n) for best case, while a time complexity of O(n^2) for worse case.
+When it runs on the sorted numbers, it consumes much less time than running on the random numbers and reversed numbers.
+
+sort2 uses:
+Merge sort
+
+How do you know?:
+Merge sort has a time complexity of O(nlogn) for both best case and worse case.
+When it runs on sorted numbers, reserved numbers and random numbers, it consumes the same time.
+Compared with the other two sorting algoritms, it consumes the least time.
+
+sort3 uses:
+Selection sort
+
+How do you know?:
+Selection sort has a time complexity of O(n^2) for both best case and worse case.
+When it runs on sorted numbers, reserved numbers and random numbers, it consumes the same time.
+Compared with bubble sort, it takes more time on the sorted numbers, while it takes less time on random numbers and reversed numbers
+that's because it does not do swap.
