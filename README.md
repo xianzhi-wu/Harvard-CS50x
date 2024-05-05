@@ -1,6 +1,7 @@
 # [This is CS50](https://cs50.harvard.edu/x/2024/)
 CS50’s Introduction to Computer Science
 
+## <s>Week 0 Scratch</s>
 ## &#10004; Week 1 C 
 ## &#10004; Week 2 Arrays
 ## &#10004; Week 3 Algorithms
